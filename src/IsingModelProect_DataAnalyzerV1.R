@@ -4,7 +4,7 @@ library(Rmpfr)
 library(mcmc)  # R's MCMC library
 library(coda)
 
-set.seed(456)
+set.seed(4534556)
 NumberOfSamples <- 100
 NumberOfSites <- 20   # Can go up to about 12 at the moment
 LengthOfMCMCRuns <- 50000
